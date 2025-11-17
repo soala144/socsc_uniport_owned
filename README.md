@@ -1,1 +1,1 @@
-Smart Contract.
+Smart Contract for a voting platform 
